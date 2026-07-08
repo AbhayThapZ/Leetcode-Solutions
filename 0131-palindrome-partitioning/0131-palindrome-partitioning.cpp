@@ -11,7 +11,6 @@ public:
             ans.push_back({partitions});
             return;
         }
-        int n=s.size();
         for(int i=0;i<s.size();i++){
             string part=s.substr(0,i+1);
             if(isPalin(part)){
