@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
