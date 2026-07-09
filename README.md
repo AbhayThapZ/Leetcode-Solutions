@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
