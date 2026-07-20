@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0881-boats-to-save-people](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
