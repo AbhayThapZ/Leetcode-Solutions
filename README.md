@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0881-boats-to-save-people](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Queue
 |  |
