@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -226,4 +229,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
