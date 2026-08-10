@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0867-transpose-matrix](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
