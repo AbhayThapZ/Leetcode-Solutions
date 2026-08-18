@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -92,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
@@ -283,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
