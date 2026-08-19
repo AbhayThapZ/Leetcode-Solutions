@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0867-transpose-matrix](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0994-rotting-oranges](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
