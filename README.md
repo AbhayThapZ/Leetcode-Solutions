@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
