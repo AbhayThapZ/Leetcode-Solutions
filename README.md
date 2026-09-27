@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/AbhayThapZ/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
