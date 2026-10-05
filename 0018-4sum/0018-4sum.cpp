@@ -13,7 +13,6 @@ public:
 
             for(int j = i + 1; j < n; j++) {
 
-                // FIXED
                 if(j > i + 1 && nums[j] == nums[j - 1])
                     continue;
 
